@@ -33,7 +33,7 @@ All cells are filled, resulting in a draw.
 
 A notification will announce the winner or a draw.
 
-Click the Reset Game button to start a new game
-Author:
-Ruthwik Reddy Julakanti
-[LinkedIn](https://www.linkedin.com/in/julakanti-ruthwik-reddy-a93390229/)
+Click the Reset Game button to start a new game.
+Enjoy playing Tic Tac Toe!
+Author: Ruthwik Reddy Julakanti
+LinkedIn:( https://www.linkedin.com/in/julakanti-ruthwik-reddy-a93390229/ )
